@@ -81,8 +81,8 @@ Evaluated using accuracy, confusion matrix, precision, recall, and F1-score.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cardiac-arrhythmia-detection.git
-cd cardiac-arrhythmia-detection
+git clone https://github.com/yourusername/Cardiac_Arrhythmia.git
+cd Cardiac_Arrhythmia
 ```
 
 2. Install dependencies:
